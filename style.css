@@ -1,0 +1,10 @@
+textarea {
+    width: 75vw;
+    height: 20vh;
+    border-radius: 10px;
+    display: block;
+}
+.navbar-brand {
+    display: flex;
+    flex-wrap: wrap;
+}
