@@ -8,3 +8,22 @@ textarea {
     display: flex;
     flex-wrap: wrap;
 }
+
+.credits {
+	background: wheat;
+	color: #333;
+	text-align: center;
+	padding: 10px;
+}
+.credits p {
+	font-size: 0.9em;
+}
+.credits a {
+	color: #444;
+    text-decoration: none;
+    
+}
+.credits a:hover {
+    color: rgb(255, 0, 0);
+    
+}
